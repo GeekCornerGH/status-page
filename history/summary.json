@@ -4,19 +4,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 872,
-    "timeDay": 872,
-    "timeWeek": 872,
-    "timeMonth": 872,
-    "timeYear": 872,
+    "status": "up",
+    "uptime": "98.42%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "98.42%",
+    "uptimeMonth": "98.42%",
+    "uptimeYear": "98.42%",
+    "time": 946,
+    "timeDay": 946,
+    "timeWeek": 946,
+    "timeMonth": 946,
+    "timeYear": 946,
     "dailyMinutesDown": {
-      "2023-01-22": 0
+      "2023-01-22": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$MASTODON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 8555,
-    "timeDay": 8555,
-    "timeWeek": 8555,
-    "timeMonth": 8555,
-    "timeYear": 8555,
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "98.40%",
+    "uptimeYear": "98.40%",
+    "time": 7965,
+    "timeDay": 7965,
+    "timeWeek": 7965,
+    "timeMonth": 7965,
+    "timeYear": 7965,
     "dailyMinutesDown": {
-      "2023-01-22": 0
+      "2023-01-22": 9
     }
   },
   {
