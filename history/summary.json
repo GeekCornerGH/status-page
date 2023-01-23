@@ -4,53 +4,59 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 920,
-    "timeWeek": 920,
-    "timeMonth": 920,
-    "timeYear": 920,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 823,
+    "timeDay": 617,
+    "timeWeek": 823,
+    "timeMonth": 823,
+    "timeYear": 823,
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "Mastodon",
     "url": "$MASTODON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 7885,
-    "timeDay": 7885,
-    "timeWeek": 7885,
-    "timeMonth": 7885,
-    "timeYear": 7885,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 6936,
+    "timeDay": 3226,
+    "timeWeek": 6936,
+    "timeMonth": 6936,
+    "timeYear": 6936,
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "Routeur Internet",
     "url": "$ROUTER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "routeur-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1878,
-    "timeDay": 1878,
+    "timeDay": 1644,
     "timeWeek": 1878,
     "timeMonth": 1878,
     "timeYear": 1878,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-23": 0
+    }
   }
 ]
