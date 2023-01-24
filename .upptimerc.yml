@@ -83,8 +83,8 @@ i18n:
   scheduledMaintenance: Maintenance planifiée
   scheduledMaintenanceSummaryStarted: Démarée à $DATE pour $DURATION minutes
   scheduledMaintenanceSummaryStarts: Commence à $DATE pour $DURATION minutes
-  startedAt: Démarée à
-  startsAt: Commencée à
+  startedAt: Commencée à
+  startsAt: Commence à
   duration: Durée
   durationMin: $DURATION minutes
   incidentCompleted: Terminé
