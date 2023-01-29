@@ -12,7 +12,7 @@
     "uptimeYear": "99.80%",
     "time": 966,
     "timeDay": 1263,
-    "timeWeek": 951,
+    "timeWeek": 998,
     "timeMonth": 966,
     "timeYear": 966,
     "dailyMinutesDown": {
@@ -24,19 +24,19 @@
     "url": "$MASTODON_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "97.50%",
-    "uptimeDay": "81.63%",
-    "uptimeWeek": "97.38%",
-    "uptimeMonth": "97.50%",
-    "uptimeYear": "97.50%",
-    "time": 4262,
-    "timeDay": 3965,
-    "timeWeek": 2985,
-    "timeMonth": 4262,
-    "timeYear": 4262,
+    "status": "up",
+    "uptime": "97.04%",
+    "uptimeDay": "78.18%",
+    "uptimeWeek": "96.88%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "97.04%",
+    "time": 4096,
+    "timeDay": 3482,
+    "timeWeek": 2981,
+    "timeMonth": 4096,
+    "timeYear": 4096,
     "dailyMinutesDown": {
-      "2023-01-29": 264
+      "2023-01-29": 314
     }
   },
   {
