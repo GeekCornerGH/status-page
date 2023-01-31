@@ -4,18 +4,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 975,
-    "timeDay": 1100,
-    "timeWeek": 1064,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 945,
+    "timeDay": 684,
+    "timeWeek": 1003,
+    "timeMonth": 945,
+    "timeYear": 945,
     "dailyMinutesDown": {
+      "2023-01-31": 1,
       "2023-01-27": 21
     }
   },
@@ -25,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "83.95%",
-    "uptimeDay": "6.75%",
-    "uptimeWeek": "80.23%",
-    "uptimeMonth": "83.95%",
-    "uptimeYear": "83.95%",
+    "uptime": "81.61%",
+    "uptimeDay": "3.58%",
+    "uptimeWeek": "76.70%",
+    "uptimeMonth": "81.61%",
+    "uptimeYear": "81.61%",
     "time": 2749,
-    "timeDay": 484,
+    "timeDay": 458,
     "timeWeek": 1463,
     "timeMonth": 2749,
     "timeYear": 2749,
     "dailyMinutesDown": {
-      "2023-01-31": 83,
+      "2023-01-31": 440,
       "2023-01-30": 1343,
       "2023-01-29": 566
     }
@@ -46,9 +47,9 @@
     "url": "$ROUTER_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "routeur-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -57,6 +58,8 @@
     "timeWeek": 2772,
     "timeMonth": 2437,
     "timeYear": 2437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-31": 0
+    }
   }
 ]
