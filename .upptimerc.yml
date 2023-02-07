@@ -11,6 +11,7 @@ sites:
     maxResponseTime: 120000
   - name: Routeur Internet
     url: $ROUTER_URL
+    maxResponseTime: 120000
 
 status-website:
   theme: night
