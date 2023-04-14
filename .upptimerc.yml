@@ -12,6 +12,9 @@ sites:
   - name: Routeur Internet
     url: $ROUTER_URL
     maxResponseTime: 120000
+  - name: Hastebin
+    url: $PASTE_URL
+    maxResponseTime: 120000
 
 status-website:
   theme: night
