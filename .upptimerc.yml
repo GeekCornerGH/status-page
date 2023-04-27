@@ -93,3 +93,12 @@ i18n:
   durationMin: $DURATION minutes
   incidentCompleted: Terminé
   incidentScheduled: Planifié
+
+workflowSchedule:
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "0 */12 * * *"
+  summary: "*/30 * * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
