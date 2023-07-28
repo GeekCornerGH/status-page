@@ -1,7 +1,7 @@
 url: $PASTE_URL
-status: up
-code: 200
-responseTime: 803
-lastUpdated: 2023-07-28T15:44:33.192Z
+status: down
+code: 530
+responseTime: 292
+lastUpdated: 2023-07-28T15:54:11.720Z
 startTime: Fri Apr 14 2023 16:51:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
