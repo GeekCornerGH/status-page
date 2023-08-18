@@ -1,7 +1,7 @@
 url: $MASTODON_URL
 status: down
-code: 530
-responseTime: 155
-lastUpdated: 2023-08-18T05:51:51.065Z
+code: 502
+responseTime: 711
+lastUpdated: 2023-08-18T06:07:56.172Z
 startTime: Sun Jan 22 2023 10:28:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
