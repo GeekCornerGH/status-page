@@ -1,7 +1,7 @@
 url: $MASTODON_URL
-status: up
-code: 200
-responseTime: 17276
-lastUpdated: 2023-09-15T13:44:41.994Z
+status: down
+code: 500
+responseTime: 619
+lastUpdated: 2023-09-15T13:53:47.449Z
 startTime: 2023-01-22T10:28:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
