@@ -11,8 +11,8 @@
     "uptimeMonth": "99.05%",
     "uptimeYear": "96.53%",
     "time": 1081,
-    "timeDay": 766,
-    "timeWeek": 859,
+    "timeDay": 763,
+    "timeWeek": 857,
     "timeMonth": 753,
     "timeYear": 1081,
     "dailyMinutesDown": {
@@ -95,17 +95,16 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "97.46%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.07%",
     "uptimeYear": "97.46%",
-    "time": 2164,
-    "timeDay": 2053,
+    "time": 2163,
+    "timeDay": 1950,
     "timeWeek": 2030,
-    "timeMonth": 2204,
-    "timeYear": 2164,
+    "timeMonth": 2205,
+    "timeYear": 2163,
     "dailyMinutesDown": {
-      "2023-11-30": 7,
       "2023-11-26": 19,
       "2023-11-20": 15,
       "2023-11-19": 84,
@@ -174,7 +173,7 @@
       "2023-07-12": 16,
       "2023-07-11": 199,
       "2023-07-05": 63,
-      "2023-06-30": 26
+      "2023-06-30": 54
     }
   },
   {
@@ -189,9 +188,9 @@
     "uptimeMonth": "98.56%",
     "uptimeYear": "91.38%",
     "time": 828,
-    "timeDay": 697,
-    "timeWeek": 693,
-    "timeMonth": 632,
+    "timeDay": 703,
+    "timeWeek": 694,
+    "timeMonth": 631,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2023-11-26": 37,
