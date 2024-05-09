@@ -6,15 +6,15 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "96.77%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.32%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "96.55%",
     "time": 887,
-    "timeDay": 573,
-    "timeWeek": 597,
-    "timeMonth": 605,
-    "timeYear": 888,
+    "timeDay": 544,
+    "timeWeek": 592,
+    "timeMonth": 603,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2024-05-07": 54,
       "2024-05-02": 44,
@@ -82,8 +82,7 @@
       "2023-05-19": 16,
       "2023-05-17": 42,
       "2023-05-14": 93,
-      "2023-05-13": 29,
-      "2023-05-10": 41
+      "2023-05-13": 29
     }
   },
   {
@@ -93,14 +92,14 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "97.81%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.10%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "97.16%",
     "time": 1700,
-    "timeDay": 659,
-    "timeWeek": 1145,
-    "timeMonth": 1076,
+    "timeDay": 623,
+    "timeWeek": 1051,
+    "timeMonth": 1077,
     "timeYear": 1705,
     "dailyMinutesDown": {
       "2024-05-07": 39,
@@ -182,15 +181,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "94.13%",
-    "uptimeDay": "97.29%",
-    "uptimeWeek": "99.10%",
+    "uptime": "94.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "93.98%",
     "time": 724,
-    "timeDay": 559,
-    "timeWeek": 550,
-    "timeMonth": 569,
+    "timeDay": 529,
+    "timeWeek": 552,
+    "timeMonth": 567,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2024-05-07": 39,
@@ -265,8 +264,7 @@
       "2023-05-19": 16,
       "2023-05-17": 42,
       "2023-05-14": 93,
-      "2023-05-13": 46,
-      "2023-05-10": 41
+      "2023-05-13": 46
     }
   }
 ]
