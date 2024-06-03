@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "96.93%",
+    "uptime": "96.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "96.93%",
     "time": 848,
-    "timeDay": 580,
-    "timeWeek": 618,
+    "timeDay": 586,
+    "timeWeek": 619,
     "timeMonth": 602,
     "timeYear": 847,
     "dailyMinutesDown": {
@@ -71,8 +71,7 @@
       "2023-06-30": 26,
       "2023-06-26": 360,
       "2023-06-18": 40,
-      "2023-06-16": 17,
-      "2023-06-04": 250
+      "2023-06-16": 17
     }
   },
   {
@@ -87,7 +86,7 @@
     "uptimeMonth": "99.44%",
     "uptimeYear": "97.13%",
     "time": 1702,
-    "timeDay": 610,
+    "timeDay": 615,
     "timeWeek": 653,
     "timeMonth": 866,
     "timeYear": 1706,
@@ -177,9 +176,9 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "94.96%",
+    "uptimeYear": "94.99%",
     "time": 698,
-    "timeDay": 546,
+    "timeDay": 545,
     "timeWeek": 554,
     "timeMonth": 562,
     "timeYear": 698,
@@ -244,8 +243,7 @@
       "2023-06-16": 17,
       "2023-06-07": 1002,
       "2023-06-06": 1440,
-      "2023-06-05": 1440,
-      "2023-06-04": 1440
+      "2023-06-05": 1440
     }
   }
 ]
