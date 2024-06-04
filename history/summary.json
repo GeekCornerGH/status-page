@@ -10,8 +10,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "96.93%",
-    "time": 848,
-    "timeDay": 576,
+    "time": 846,
+    "timeDay": 575,
     "timeWeek": 619,
     "timeMonth": 603,
     "timeYear": 846,
@@ -85,10 +85,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "97.13%",
-    "time": 1704,
-    "timeDay": 614,
-    "timeWeek": 653,
-    "timeMonth": 866,
+    "time": 1703,
+    "timeDay": 617,
+    "timeWeek": 641,
+    "timeMonth": 848,
     "timeYear": 1706,
     "dailyMinutesDown": {
       "2024-05-26": 136,
@@ -172,14 +172,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "94.49%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "95.09%",
-    "time": 698,
-    "timeDay": 535,
-    "timeWeek": 553,
+    "uptimeYear": "95.26%",
+    "time": 697,
+    "timeDay": 555,
+    "timeWeek": 555,
     "timeMonth": 563,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -242,8 +242,7 @@
       "2023-06-26": 921,
       "2023-06-16": 17,
       "2023-06-07": 1002,
-      "2023-06-06": 1440,
-      "2023-06-05": 1440
+      "2023-06-06": 1440
     }
   }
 ]
