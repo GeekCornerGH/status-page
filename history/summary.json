@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.07%",
-    "time": 822,
-    "timeDay": 976,
-    "timeWeek": 1119,
-    "timeMonth": 890,
-    "timeYear": 818,
+    "time": 819,
+    "timeDay": 837,
+    "timeWeek": 1100,
+    "timeMonth": 897,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2024-06-18": 20,
       "2024-05-07": 54,
@@ -66,8 +66,7 @@
       "2023-07-15": 16,
       "2023-07-14": 57,
       "2023-07-13": 622,
-      "2023-07-12": 331,
-      "2023-07-11": 844
+      "2023-07-12": 331
     }
   },
   {
@@ -77,15 +76,15 @@
     "slug": "mastodon",
     "status": "up",
     "uptime": "98.04%",
-    "uptimeDay": "98.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.13%",
     "time": 1694,
-    "timeDay": 1187,
-    "timeWeek": 1420,
-    "timeMonth": 955,
-    "timeYear": 1695,
+    "timeDay": 1258,
+    "timeWeek": 1425,
+    "timeMonth": 971,
+    "timeYear": 1692,
     "dailyMinutesDown": {
       "2024-07-08": 22,
       "2024-05-26": 136,
@@ -168,16 +167,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.14%",
-    "time": 684,
-    "timeDay": 941,
-    "timeWeek": 979,
-    "timeMonth": 781,
-    "timeYear": 681,
+    "time": 682,
+    "timeDay": 649,
+    "timeWeek": 950,
+    "timeMonth": 783,
+    "timeYear": 680,
     "dailyMinutesDown": {
       "2024-05-26": 39,
       "2024-05-07": 39,
@@ -229,8 +228,7 @@
       "2023-07-27": 15,
       "2023-07-15": 16,
       "2023-07-14": 621,
-      "2023-07-13": 983,
-      "2023-07-11": 15
+      "2023-07-13": 983
     }
   }
 ]
