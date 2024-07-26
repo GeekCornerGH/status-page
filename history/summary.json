@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.20%",
     "uptimeDay": "94.23%",
-    "uptimeWeek": "98.14%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "99.43%",
     "uptimeYear": "97.39%",
-    "time": 802,
-    "timeDay": 1332,
-    "timeWeek": 924,
+    "time": 801,
+    "timeDay": 1194,
+    "timeWeek": 884,
     "timeMonth": 960,
-    "timeYear": 801,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-07-25": 83,
       "2024-07-19": 104,
@@ -64,8 +64,7 @@
       "2023-07-31": 192,
       "2023-07-30": 31,
       "2023-07-29": 27,
-      "2023-07-28": 91,
-      "2023-07-27": 15
+      "2023-07-28": 91
     }
   },
   {
@@ -74,18 +73,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "95.43%",
+    "uptime": "95.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.77%",
-    "uptimeYear": "93.12%",
-    "time": 1661,
-    "timeDay": 788,
-    "timeWeek": 787,
-    "timeMonth": 1004,
-    "timeYear": 1662,
+    "uptimeMonth": "48.99%",
+    "uptimeYear": "92.89%",
+    "time": 1660,
+    "timeDay": 873,
+    "timeWeek": 799,
+    "timeMonth": 1006,
+    "timeYear": 1660,
     "dailyMinutesDown": {
-      "2024-07-25": 369,
+      "2024-07-26": 150,
+      "2024-07-25": 1440,
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.44%",
-    "time": 674,
-    "timeDay": 737,
-    "timeWeek": 729,
-    "timeMonth": 814,
-    "timeYear": 673,
+    "time": 673,
+    "timeDay": 728,
+    "timeWeek": 714,
+    "timeMonth": 808,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2024-07-16": 39,
       "2024-05-26": 39,
@@ -239,8 +239,7 @@
       "2023-07-31": 193,
       "2023-07-30": 31,
       "2023-07-29": 27,
-      "2023-07-28": 91,
-      "2023-07-27": 15
+      "2023-07-28": 91
     }
   }
 ]
