@@ -11,9 +11,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "97.39%",
     "time": 798,
-    "timeDay": 826,
-    "timeWeek": 883,
-    "timeMonth": 956,
+    "timeDay": 863,
+    "timeWeek": 881,
+    "timeMonth": 958,
     "timeYear": 794,
     "dailyMinutesDown": {
       "2024-07-25": 83,
@@ -62,8 +62,7 @@
       "2023-08-17": 235,
       "2023-08-15": 51,
       "2023-07-31": 192,
-      "2023-07-30": 31,
-      "2023-07-29": 27
+      "2023-07-30": 31
     }
   },
   {
@@ -72,18 +71,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "94.97%",
+    "uptime": "94.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.98%",
-    "uptimeYear": "92.39%",
-    "time": 1655,
-    "timeDay": 678,
-    "timeWeek": 753,
-    "timeMonth": 1000,
+    "uptimeMonth": "42.40%",
+    "uptimeYear": "92.34%",
+    "time": 1654,
+    "timeDay": 681,
+    "timeWeek": 754,
+    "timeMonth": 1001,
     "timeYear": 1655,
     "dailyMinutesDown": {
-      "2024-07-27": 1342,
+      "2024-07-28": 155,
+      "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
@@ -181,14 +181,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.45%",
     "time": 672,
-    "timeDay": 700,
-    "timeWeek": 694,
+    "timeDay": 683,
+    "timeWeek": 685,
     "timeMonth": 812,
     "timeYear": 668,
     "dailyMinutesDown": {
@@ -237,8 +237,7 @@
       "2023-08-16": 113,
       "2023-08-15": 85,
       "2023-07-31": 193,
-      "2023-07-30": 31,
-      "2023-07-29": 27
+      "2023-07-30": 31
     }
   }
 ]
