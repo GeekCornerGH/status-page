@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "97.46%",
     "time": 772,
-    "timeDay": 754,
-    "timeWeek": 854,
-    "timeMonth": 834,
-    "timeYear": 771,
+    "timeDay": 759,
+    "timeWeek": 850,
+    "timeMonth": 832,
+    "timeYear": 767,
     "dailyMinutesDown": {
       "2024-08-01": 19,
       "2024-07-25": 83,
@@ -59,8 +59,7 @@
       "2023-08-29": 18,
       "2023-08-28": 34,
       "2023-08-27": 7,
-      "2023-08-18": 377,
-      "2023-08-17": 235
+      "2023-08-18": 377
     }
   },
   {
@@ -69,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "91.90%",
+    "uptime": "91.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.39%",
-    "time": 1639,
-    "timeDay": 897,
-    "timeWeek": 836,
-    "timeMonth": 815,
-    "timeYear": 1640,
+    "uptimeYear": "87.21%",
+    "time": 1638,
+    "timeDay": 765,
+    "timeWeek": 813,
+    "timeMonth": 810,
+    "timeYear": 1639,
     "dailyMinutesDown": {
-      "2024-08-15": 627,
+      "2024-08-16": 153,
+      "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
@@ -180,8 +180,7 @@
       "2023-08-29": 18,
       "2023-08-28": 34,
       "2023-08-27": 7,
-      "2023-08-18": 377,
-      "2023-08-17": 235
+      "2023-08-18": 377
     }
   },
   {
@@ -193,13 +192,13 @@
     "uptime": "95.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "97.52%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "97.53%",
     "time": 662,
-    "timeDay": 674,
-    "timeWeek": 746,
-    "timeMonth": 742,
-    "timeYear": 661,
+    "timeDay": 703,
+    "timeWeek": 729,
+    "timeMonth": 743,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-07-16": 39,
       "2024-05-26": 39,
@@ -241,8 +240,7 @@
       "2023-08-29": 18,
       "2023-08-28": 34,
       "2023-08-27": 7,
-      "2023-08-18": 377,
-      "2023-08-17": 235
+      "2023-08-18": 377
     }
   }
 ]
