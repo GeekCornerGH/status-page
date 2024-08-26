@@ -11,10 +11,10 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "97.56%",
     "time": 763,
-    "timeDay": 876,
-    "timeWeek": 852,
-    "timeMonth": 828,
-    "timeYear": 763,
+    "timeDay": 895,
+    "timeWeek": 846,
+    "timeMonth": 831,
+    "timeYear": 762,
     "dailyMinutesDown": {
       "2024-08-21": 54,
       "2024-08-20": 18,
@@ -59,8 +59,7 @@
       "2023-09-03": 503,
       "2023-08-31": 48,
       "2023-08-29": 18,
-      "2023-08-28": 34,
-      "2023-08-27": 7
+      "2023-08-28": 34
     }
   },
   {
@@ -69,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "90.30%",
+    "uptime": "90.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.75%",
+    "uptimeYear": "84.61%",
     "time": 1639,
-    "timeDay": 708,
-    "timeWeek": 856,
-    "timeMonth": 824,
+    "timeDay": 681,
+    "timeWeek": 854,
+    "timeMonth": 820,
     "timeYear": 1643,
     "dailyMinutesDown": {
-      "2024-08-25": 755,
+      "2024-08-26": 74,
+      "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
@@ -188,8 +188,7 @@
       "2023-09-03": 228,
       "2023-08-31": 695,
       "2023-08-29": 18,
-      "2023-08-28": 34,
-      "2023-08-27": 7
+      "2023-08-28": 34
     }
   },
   {
@@ -198,15 +197,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.65%",
     "time": 656,
-    "timeDay": 718,
-    "timeWeek": 790,
-    "timeMonth": 756,
+    "timeDay": 762,
+    "timeWeek": 794,
+    "timeMonth": 760,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2024-08-21": 54,
@@ -249,8 +248,7 @@
       "2023-08-31": 696,
       "2023-08-30": 16,
       "2023-08-29": 18,
-      "2023-08-28": 34,
-      "2023-08-27": 7
+      "2023-08-28": 34
     }
   }
 ]
