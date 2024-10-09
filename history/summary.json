@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
     "time": 729,
-    "timeDay": 916,
-    "timeWeek": 848,
-    "timeMonth": 875,
+    "timeDay": 914,
+    "timeWeek": 857,
+    "timeMonth": 877,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2024-09-04": 30,
@@ -57,18 +57,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "83.89%",
+    "uptime": "83.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "73.37%",
+    "uptimeYear": "73.32%",
     "time": 1150,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2024-10-08": 1343,
+      "2024-10-09": 164,
+      "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
       "2024-10-05": 1440,
@@ -193,8 +194,7 @@
       "2023-10-14": 63,
       "2023-10-13": 19,
       "2023-10-12": 177,
-      "2023-10-11": 63,
-      "2023-10-10": 174
+      "2023-10-11": 63
     }
   },
   {
@@ -209,9 +209,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
     "time": 634,
-    "timeDay": 717,
-    "timeWeek": 671,
-    "timeMonth": 699,
+    "timeDay": 713,
+    "timeWeek": 669,
+    "timeMonth": 698,
     "timeYear": 634,
     "dailyMinutesDown": {
       "2024-09-04": 30,
