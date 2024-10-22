@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.13%",
     "time": 734,
-    "timeDay": 832,
-    "timeWeek": 835,
-    "timeMonth": 828,
+    "timeDay": 800,
+    "timeWeek": 833,
+    "timeMonth": 822,
     "timeYear": 734,
     "dailyMinutesDown": {
       "2024-09-04": 30,
@@ -46,8 +46,7 @@
       "2023-10-28": 249,
       "2023-10-27": 131,
       "2023-10-25": 60,
-      "2023-10-24": 591,
-      "2023-10-23": 1440
+      "2023-10-24": 591
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "82.19%",
+    "uptime": "82.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "70.03%",
+    "uptimeYear": "69.96%",
     "time": 1152,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2024-10-21": 1225,
+      "2024-10-22": 166,
+      "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
@@ -196,8 +196,7 @@
       "2023-10-28": 291,
       "2023-10-27": 131,
       "2023-10-26": 1017,
-      "2023-10-25": 274,
-      "2023-10-23": 409
+      "2023-10-25": 274
     }
   },
   {
@@ -206,15 +205,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "95.86%",
+    "uptime": "95.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
-    "time": 637,
-    "timeDay": 781,
-    "timeWeek": 707,
-    "timeMonth": 693,
+    "time": 638,
+    "timeDay": 993,
+    "timeWeek": 739,
+    "timeMonth": 700,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2024-09-04": 30,
@@ -242,8 +241,7 @@
       "2023-11-05": 15,
       "2023-10-28": 291,
       "2023-10-27": 422,
-      "2023-10-25": 60,
-      "2023-10-23": 401
+      "2023-10-25": 60
     }
   }
 ]
