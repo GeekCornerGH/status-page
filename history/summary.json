@@ -6,15 +6,15 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "97.51%",
-    "uptimeDay": "56.36%",
+    "uptimeDay": "85.81%",
     "uptimeWeek": "93.77%",
     "uptimeMonth": "98.57%",
-    "uptimeYear": "98.24%",
+    "uptimeYear": "98.35%",
     "time": 733,
-    "timeDay": 517,
-    "timeWeek": 802,
-    "timeMonth": 810,
-    "timeYear": 728,
+    "timeDay": 600,
+    "timeWeek": 784,
+    "timeMonth": 808,
+    "timeYear": 725,
     "dailyMinutesDown": {
       "2024-10-23": 360,
       "2024-10-22": 268,
@@ -46,8 +46,7 @@
       "2023-11-16": 281,
       "2023-11-05": 15,
       "2023-10-28": 249,
-      "2023-10-27": 131,
-      "2023-10-25": 60
+      "2023-10-27": 131
     }
   },
   {
@@ -56,18 +55,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "81.95%",
+    "uptime": "81.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.64%",
+    "uptimeYear": "69.53%",
     "time": 1154,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1155,
+    "timeYear": 1156,
     "dailyMinutesDown": {
-      "2024-10-23": 1042,
+      "2024-10-24": 165,
+      "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
@@ -197,8 +197,7 @@
       "2023-11-02": 9,
       "2023-10-28": 291,
       "2023-10-27": 131,
-      "2023-10-26": 1017,
-      "2023-10-25": 274
+      "2023-10-26": 1017
     }
   },
   {
@@ -208,15 +207,15 @@
     "slug": "hastebin",
     "status": "up",
     "uptime": "95.80%",
-    "uptimeDay": "56.36%",
+    "uptimeDay": "86.60%",
     "uptimeWeek": "93.77%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "98.74%",
     "time": 638,
-    "timeDay": 604,
-    "timeWeek": 683,
-    "timeMonth": 694,
-    "timeYear": 638,
+    "timeDay": 682,
+    "timeWeek": 690,
+    "timeMonth": 696,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2024-10-23": 361,
       "2024-10-22": 268,
@@ -244,8 +243,7 @@
       "2023-11-16": 264,
       "2023-11-05": 15,
       "2023-10-28": 291,
-      "2023-10-27": 422,
-      "2023-10-25": 60
+      "2023-10-27": 422
     }
   }
 ]
