@@ -10,11 +10,11 @@
     "uptimeWeek": "93.77%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "98.45%",
-    "time": 722,
-    "timeDay": 847,
-    "timeWeek": 774,
-    "timeMonth": 809,
-    "timeYear": 720,
+    "time": 723,
+    "timeDay": 984,
+    "timeWeek": 807,
+    "timeMonth": 816,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2024-10-23": 360,
       "2024-10-22": 268,
@@ -44,8 +44,7 @@
       "2023-11-20": 15,
       "2023-11-19": 84,
       "2023-11-16": 281,
-      "2023-11-05": 15,
-      "2023-10-28": 249
+      "2023-11-05": 15
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "81.63%",
+    "uptime": "81.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.07%",
-    "time": 1155,
+    "uptimeYear": "68.96%",
+    "time": 1152,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1151,
+    "timeYear": 1144,
     "dailyMinutesDown": {
-      "2024-10-26": 323,
+      "2024-10-27": 170,
+      "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
@@ -195,8 +195,7 @@
       "2023-11-19": 84,
       "2023-11-16": 264,
       "2023-11-05": 15,
-      "2023-11-02": 9,
-      "2023-10-28": 291
+      "2023-11-02": 9
     }
   },
   {
@@ -205,16 +204,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "95.82%",
+    "uptime": "95.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.77%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "98.75%",
     "time": 639,
-    "timeDay": 751,
-    "timeWeek": 689,
-    "timeMonth": 699,
-    "timeYear": 639,
+    "timeDay": 633,
+    "timeWeek": 696,
+    "timeMonth": 695,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2024-10-23": 361,
       "2024-10-22": 268,
@@ -240,8 +239,7 @@
       "2023-11-20": 229,
       "2023-11-19": 85,
       "2023-11-16": 264,
-      "2023-11-05": 15,
-      "2023-10-28": 291
+      "2023-11-05": 15
     }
   }
 ]
