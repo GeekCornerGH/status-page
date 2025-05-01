@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.77%",
-    "time": 922,
-    "timeDay": 1070,
-    "timeWeek": 1204,
-    "timeMonth": 1060,
+    "time": 923,
+    "timeDay": 1201,
+    "timeWeek": 1212,
+    "timeMonth": 1065,
     "timeYear": 924,
     "dailyMinutesDown": {
       "2025-04-01": 18,
@@ -30,8 +30,7 @@
       "2024-07-12": 25,
       "2024-06-18": 20,
       "2024-05-07": 54,
-      "2024-05-02": 44,
-      "2024-05-01": 8
+      "2024-05-02": 44
     }
   },
   {
@@ -40,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "63.27%",
+    "uptime": "63.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "19.34%",
-    "time": 877,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "19.26%",
+    "time": 876,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2025-04-30": 1111,
+      "2025-05-01": 95,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -350,8 +350,7 @@
       "2024-05-26": 136,
       "2024-05-25": 72,
       "2024-05-07": 39,
-      "2024-05-02": 44,
-      "2024-05-01": 8
+      "2024-05-02": 44
     }
   },
   {
@@ -365,10 +364,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
-    "time": 708,
-    "timeDay": 846,
-    "timeWeek": 937,
-    "timeMonth": 775,
+    "time": 709,
+    "timeDay": 955,
+    "timeWeek": 965,
+    "timeMonth": 780,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2025-04-01": 18,
@@ -381,8 +380,7 @@
       "2024-07-16": 39,
       "2024-05-26": 39,
       "2024-05-07": 39,
-      "2024-05-02": 44,
-      "2024-05-01": 8
+      "2024-05-02": 44
     }
   }
 ]
